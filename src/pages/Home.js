@@ -14,7 +14,7 @@ const Home = () => {
           <p> Association Des Jeunes Intellectuels de Tura pour le Developpement et la Solidarite</p> 
           <Picture />
      
-          <h1> <marquee behavior="slide" direction="left">Welcome for using App_Bosco</marquee></h1>
+          <h1>Welcome for using App_Bosco</h1>
           <fieldset>
           <form action="">
             <label htmlFor="name">Votre Nom : </label>

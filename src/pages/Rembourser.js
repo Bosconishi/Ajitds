@@ -1,13 +1,13 @@
 import React, { Component } from 'react';
 
-class Crediter extends Component {
+class Rembouser extends Component {
     render() {
         return (
             <div>
-                <h1>Choix du montant</h1>
+                <h1>Choix libre</h1>
             </div>
         );
     }
 }
 
-export default Crediter;
+export default Rembouser;

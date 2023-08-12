@@ -9,9 +9,9 @@ class Membre extends Component {
 
     render() {
         return (
-            <div>
+            <h1>
                   Nos Services
-            </div>
+            </h1>
         );
     }
 }
